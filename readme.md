@@ -99,4 +99,6 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-*(Optional: Add screenshots of your app here for better documentation)*
+<img width="623" height="907" alt="image" src="https://github.com/user-attachments/assets/2399aa87-4840-416c-9547-2c47168e3bac" />
+
+
